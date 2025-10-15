@@ -36,7 +36,7 @@ st.markdown('''
 ''', unsafe_allow_html=True)
 
 st.title("🌿 AI-Powered Biodiesel Prediction System")
-st.subheader("Developed by NGIC | Intelligent Fuel Analysis Platform")
+st.subheader("Developed by MOHAMMED | Intelligent Fuel Analysis Platform")
 
 st.markdown('''
 <div class="intro">
@@ -61,7 +61,7 @@ This system was built using advanced supervised learning algorithms and optimize
 
 ''', unsafe_allow_html=True)
 
-st.markdown('<div class="footer">© 2024 NGIC. All rights reserved.</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">© 2025 ABU. All rights reserved.</div>', unsafe_allow_html=True)
 
 # Add an image (optional)
 # try:
