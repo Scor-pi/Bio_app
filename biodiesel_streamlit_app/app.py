@@ -6,7 +6,7 @@ import joblib
 # ✅ Load model and encoder safely
 # ==============================
 MODEL_PATH = "model.pkl"
-ENCODER_PATH = "biodiesel_encoder.pkl"
+ENCODER_PATH = "biodiesel_streamlit_app/biodiesel_encoder.pkl"
 
 try:
     model = joblib.load(MODEL_PATH)
